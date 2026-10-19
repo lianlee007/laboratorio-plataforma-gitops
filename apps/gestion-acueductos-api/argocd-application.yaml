@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: git://GIT_SERVER_IP:9418/repo-gitops.git
+    repoURL: git://172.18.0.6:9418/repo-gitops.git
     targetRevision: HEAD
     path: apps/gestion-acueductos-api
   destination:
