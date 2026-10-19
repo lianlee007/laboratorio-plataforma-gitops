@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: git://172.18.0.6:9418/repo-gitops.git
+    repoURL: https://github.com/lianlee007/laboratorio-plataforma-gitops.git
     targetRevision: HEAD
     path: apps/gestion-acueductos-api
   destination:
